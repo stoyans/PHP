@@ -1,0 +1,56 @@
+ed8ea338-97f8-47ef-9cdc-bd3bcda1d626
+
+http://youtu.be/e8oNgrsmaY4?t=2h7m16s
+0894441825 ceco
+Variables - can't start with digit!
+cast - (int)$a; PHP always tries to match the corrent type;
+Concatenation - with "."; "+" is math operation;
+
+require_once - ще провери дали вече файлът е включен;
+include - ако файлът не съществува, кодър ще продължи
+
+ksort - sort by key
+krsort - reverse by key
+sort - sort literals, change keys
+asort - sort literals, preserve keys
+
+array_search ("string", $array)
+FILE_APPEND
+
+
+scandir
+include dir: we can't write/read files outside PHP project
+files($variable) - return bool
+
+move_upload_file - презаписва файла
+php.ini - post_max_file = 8MB
+http://web-tourist.net/forum/viewtopic.php?t=105134
+
+pathinfo
+mrdir
+
+mysqi
+{
+Може да смесваме процедурен и обектен код;
+mysqli_real_escape_string - много важна функция с/у инжекции
+}
+prepared statemnts - разделя sql и данните
+предварително се прави sql и само данните биват пратени, като се пести процесорно време;
+$var = mysqli_prepare($dbconnect, 'SELECT FROM users WHERE username = ?'); "?" ще бъдат променяни; очаквай там данни
+mysqli_stmt_bind ($var, 'ss', $_GET[''].....) ; ss string, strin;
+mysqli_stmt_execute($var);
+
+
+
+http://youtu.be/i5jMBcRrv7w?t=1h16m26s
+
+SELECT * FROM books LEFT JOIN books_authors ON books.book_id=books_authors.book_id WHERE books_authors.author_id=3
+
+
+sicurity:
+md5 и sha1 не вършат вече работа, защото при един вход един изход, лесно се проверява оригиналната парола при днешните ресурси
+-подсоляване: 
+прехвърляне на source code към междинен
+
+encapsulation
+

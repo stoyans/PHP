@@ -1,0 +1,4 @@
+user|qwerty|user.upload|
+test|test|test.upload|
+tanis|tanis|tanis.upload|
+admin|admin|admin.upload|

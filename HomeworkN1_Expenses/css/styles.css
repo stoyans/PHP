@@ -1,0 +1,70 @@
+table
+{
+    border-radius:10px;
+    border-collapse: collapse;
+}
+td{
+    border: 1px solid grey;
+    padding: 10px;
+    text-align: center;
+    width: 80px;
+}
+thead{
+    font-size: 15px;
+    color: white;
+    background-color: black;
+    height: 60px;
+}
+tbody
+{
+    background-color: green;
+    color:black;
+    font-size: 16px;
+}
+#select
+{
+    color:black;
+    width: 100px;
+    height: 30px;
+    background-color: threedshadow;
+    width: 155px;
+}
+input{
+    width: 150px;
+    height: 26px;
+}
+a{
+    color:white;
+    text-decoration: none;
+}
+#sum{
+    font-weight: bold;
+}
+#filter{
+    background-color: white;
+    color: black;
+    width: 155px;
+    height: 30px;
+}
+#menu{
+    color:black;
+    width: 155px;
+    height: 30px;
+    background-color: white;
+    text-align: center;
+    padding: 4px;
+}
+#menu2{
+    color: white;
+    font-size: 16px;
+}
+#submit{
+    background-color: white;
+    color: black;
+    height: 30px;
+    width: 155px;
+}
+#add{
+    background-color: transparent;
+    width: 150px;
+}

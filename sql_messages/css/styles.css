@@ -1,0 +1,226 @@
+#form{
+    background-color:rgba(32,32,32,0.3);
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 7px;
+    height: 380px;
+}
+#form1{
+    background-color:rgba(32,32,32,0.3);
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 7px;
+    height: 310px;
+}
+textarea{
+ margin-left: 130px;
+}
+input.field{
+    border-radius: 5px;
+    height: 30px;
+    padding: 3px;
+    width: 192px;
+    background-color: rgba(32,32,32,0.2);
+    color: whitesmoke;
+    
+}
+input.field1{
+    border-radius: 5px;
+    height: 30px;
+    padding: 3px;
+    width: 192px;
+    background-color: rgba(32,32,32,0.2);
+    color: whitesmoke;    
+}
+input.button{
+    width: 193px;
+    border-radius: 12px;
+    padding: 8px;
+    font-weight: bold;
+    font-size: 15px;
+    background-color:  limegreen;
+    border:1px solid black;
+    color:whitesmoke;
+}
+input.upload{
+    background-color: antiquewhite;
+}
+div.data{
+    margin-left: auto;
+    margin-right: auto;
+    width: 220px;
+    color:whitesmoke;
+}
+div.area{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color:whitesmoke;
+}
+div.listed{
+    background-color: peru;
+    height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 190px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+div.listed a{
+    color: black;
+    
+}
+table{
+    height: auto;
+    margin-top: 20px;
+    margin-left: 350px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: rgba(32,32,32,0.5);
+}
+thead{
+    border:1px solid black;
+    font-weight: bold;
+    color:whitesmoke;
+}
+td{
+    border:1px solid grey;
+    padding: 3px;   
+}
+#published{
+    width: 140px;
+    text-align: justify;
+}
+#mtitle {
+    width: 140px;
+    text-align: left;
+    
+}
+#msg {
+    white-space: pre-line;
+    width: 500px;
+}
+#usr {
+    text-align: center;
+}
+div.link{
+    border: 1px solid white;
+    width: 70px;
+    height: auto;
+    background-color: gainsboro;
+    border-radius: 6px;
+}
+div.info{
+    margin-left: 450px;
+    width: 728px;
+    
+}
+div.link1{
+    margin-left: 450px;
+    border: 1px solid gray;
+    width: 136px;
+    height: auto;
+    border-radius: 6px;
+}
+div a{
+    text-decoration: none;
+    color: red;
+    padding: 15px;
+    height: auto;
+}
+a{
+    text-decoration: none;
+}
+h3{
+    color:whitesmoke;
+}
+div.reg{
+    border-radius: 5px;
+    border:1px solid;
+    margin-top: 10px;
+    float: left;
+    width: 110px;
+    
+}
+div.reg a{
+    color: orange;
+}
+div.reg2 a{
+    color: orange;
+}
+div.add{
+    background-color: rgba(32,32,32,0.3);
+    float:left;
+    margin-top: 20px;
+    margin-left: 450px;
+    border:1px solid olive;
+}
+div.newmsg{
+    border:1px solid black;
+    width: 300px;
+}
+div.add a{
+    color:aliceblue;
+    font-size: 18px;
+}
+div.bydate{
+    margin-top: 20px;
+    margin-left: 940px;
+}
+div.exit{
+    color:peru;
+    height: 24px;
+    text-align: center;
+    width: 90px;
+    border-radius: 6px;
+    background-color: rgba(32,32,32,0.5);
+}
+div.exit a{
+    color:peru;
+    font-size: 18px;
+}
+div.reg1{
+    border-radius: 5px;
+    width: 190px;
+	height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+div.reg2{
+    border-radius: 5px;
+    margin-top: 17px;
+    width: 62px;
+    border:1px solid;
+}
+div.uploaded{
+    border-radius: 5px;
+    border: 1px solid gray;
+    width: 160px;
+    background-color: whitesmoke;
+}
+div.uform{
+    border: 1px solid gray;
+    border-radius: 6px;
+    width: 300px;
+    background-color: whitesmoke;
+}
+div.hello{
+    border:1px solid gray;
+    border-radius: 6px;
+    margin-left: 450px;
+    width: 200px;
+    margin-top: 30px;
+}
+html{
+    background-image: url('../include/blurred.jpg');
+    background-repeat:repeat-y;
+}

@@ -1,0 +1,125 @@
+#form{
+    background-color: whitesmoke;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 7px;
+    height: 220px;
+}
+input.field{
+    border-radius: 5px;
+    height: 30px;
+    padding: 3px;
+    width: 192px;
+    
+}
+input.field1{
+    border-radius: 5px;
+    height: 30px;
+    padding: 3px;
+    width: 192px;
+    
+}
+input.button{
+    float: left;
+    border-radius: 12px;
+    padding: 8px;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: lightskyblue;
+    border:1px solid;
+}
+input.upload{
+    background-color: antiquewhite;
+}
+div.data{
+    margin-left: auto;
+    margin-right: auto;
+    width: 180px;
+
+}
+table{
+    height: auto;
+    margin-top: 20px;
+    margin-left: 450px;;
+    border: 2px solid black;
+    border-collapse: collapse;
+    background-color: whitesmoke;
+}
+thead{
+    border:1px solid black;
+    font-weight: bold;
+}
+td{
+    padding: 16px;
+    border:1px solid grey;
+}
+div.link{
+    border: 1px solid white;
+    width: 70px;
+    height: auto;
+    background-color: gainsboro;
+    border-radius: 6px;
+}
+div.link1{
+    margin-left: 450px;
+    border: 1px solid gray;
+    width: 136px;
+    height: auto;
+    border-radius: 6px;
+}
+div a{
+    text-decoration: none;
+    color: red;
+    padding: 15px;
+    height: auto;
+}
+a{
+    text-decoration: none;
+}
+div.reg{
+    border-radius: 5px;
+    border:1px solid;
+    margin-top: 10px;
+    float: left;
+    width: 110px;
+    margin-left: 15px;
+}
+div.reg1{
+    border-radius: 5px;
+    margin-top: 10px;
+    width: 100px;
+    margin-left: 88px;
+}
+div.reg2{
+    border-radius: 5px;
+    margin-top: 29px;
+    width: 62px;
+    margin-left: 117px;
+    border:1px solid;
+}
+div.uploaded{
+    border-radius: 5px;
+    border: 1px solid gray;
+    width: 160px;
+    background-color: whitesmoke;
+}
+div.uform{
+    border: 1px solid gray;
+    border-radius: 6px;
+    width: 300px;
+    background-color: whitesmoke;
+}
+div.hello{
+    border:1px solid gray;
+    border-radius: 6px;
+    margin-left: 450px;
+    width: 200px;
+    margin-top: 30px;
+}
+html{
+    background-color:  silver;
+}
